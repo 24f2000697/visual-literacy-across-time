@@ -1,0 +1,8 @@
+{
+  "prompt": "Japanese Edo-period ukiyo-e woodblock print style, Katsushika Hokusai inspired. A lone empty tea house sits on a quiet mountain path. Every other tea house visible along the winding path below is full of warmth — lanterns glowing orange, tiny figures of travelers gathered inside, wisps of steam rising from cups. The new tea house at the top sits pristine, unloved, completely empty — no lanterns lit, no travelers stopping, no footprints in the snow leading to its door. A single traveler on the path below looks up at it briefly then walks toward the crowded tea houses instead. Vast Mount Fuji visible in the background under a pale winter sky. Flat unmodulated color fields, bold black outlines, visible woodgrain texture, diagonal composition, muted indigo and ochre palette, vermillion accents on the occupied tea houses only. No text, no labels, no annotations. Authentic Edo-period woodblock print aesthetic, not photorealistic, not 3D rendered.",
+  "model": "Gemini",
+  "concept": "Cold Start Problem",
+  "tradition_name": "Japanese Ukiyo-e Woodblock Prints",
+  "tradition_period": "1603-1868",
+  "tradition_approach": "Flat unmodulated color fields, bold black outlines, visible woodgrain texture, diagonal path composition, and muted indigo-ochre palette with vermillion accents marking only the occupied tea houses."
+}
